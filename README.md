@@ -3,7 +3,8 @@ Ready to Use Code to have your own ChatBot using OpenAI API.
 <br>Also added WebApp Template for Reference! Thanks to [Lyubomir](https://github.com/LyubomirT)
 
 ### Steps to Use the ChatBot:
-- This Codebase requires [OpenAI API Key](https://openai.com/blog/openai-api), kindly make sure you get one.
+- This Codebase requires [OpenAI API Key](https://openai.com/blog/openai-api), kindly make sure you get one. ( -----> here self.api_key = ""  # Secure way to use API key
+)
 - Install Necessary Dependencies from 'requirements.txt'. 
     - Run : pip install -r requirements.txt
 - Open and Store your API Key in "Code/BotDefinition.py".
