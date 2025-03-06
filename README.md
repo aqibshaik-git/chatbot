@@ -8,7 +8,7 @@ Ready to Use Code to have your own ChatBot using OpenAI API.
     - Run : pip install -r requirements.txt
 - Open and Store your API Key in "Code/BotDefinition.py".
 - Run "Code/ChatBot.py" for Terminal Based ChatBot.
-- Run "Code/GuiChatBot.py" for WebApp Based ChatBot.
+- Run "Code/GuiChatBot.py" for WebApp Based ChatBot. (python Code/GuiChatBot.py or python3 Code/GuiChatBot.py)
 - That's it! Just enter your prompts and get the responses.
 - If you want to terminate the chat, just enter 'End Chat'.
 
